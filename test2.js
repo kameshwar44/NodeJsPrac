@@ -11,7 +11,3 @@ const data = module.exports=[
 
 
 
-module.exports={
-    x:202,
-    y:323
-}
